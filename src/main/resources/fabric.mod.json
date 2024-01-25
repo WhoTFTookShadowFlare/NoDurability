@@ -6,7 +6,7 @@
   "description": "Removes durability, without breaking mod compatibility",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/WhoTFTookShadowFlare/NoDurability Fabric"
+    "repo": "https://github.com/WhoTFTookShadowFlare/NoDurability"
   },
   "license": "MIT",
   "icon": "assets/nodurability/icon.png",
