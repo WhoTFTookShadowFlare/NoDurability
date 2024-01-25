@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "me/shadowflare/nodurability/mixins/ItemMixin": {
+      "isDamageable": "Lnet/minecraft/class_1792;method_7846()Z"
+    },
+    "me/shadowflare/nodurability/mixins/ItemStackMixin": {
+      "setDamage": "Lnet/minecraft/class_1799;method_7974(I)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/shadowflare/nodurability/mixins/ItemMixin": {
+        "isDamageable": "Lnet/minecraft/class_1792;method_7846()Z"
+      },
+      "me/shadowflare/nodurability/mixins/ItemStackMixin": {
+        "setDamage": "Lnet/minecraft/class_1799;method_7974(I)V"
+      }
+    }
+  }
+}

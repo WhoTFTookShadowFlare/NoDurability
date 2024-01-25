@@ -1,0 +1,2 @@
+/give @s minecraft:diamond_shovel
+/give @s minecraft:golden_shovel

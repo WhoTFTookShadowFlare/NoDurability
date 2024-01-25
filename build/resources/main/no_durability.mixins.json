@@ -1,0 +1,8 @@
+{
+  "package": "me.shadowflare.nodurability.mixins",
+  "required": true,
+  "mixins": [
+    "ItemMixin",
+    "ItemStackMixin"
+  ]
+}

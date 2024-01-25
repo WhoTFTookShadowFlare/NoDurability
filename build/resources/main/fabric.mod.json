@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "nodurability",
+  "version": "1.0.0",
+  "name": "No Durability",
+  "description": "Removes durability, without breaking mod compatibility",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/WhoTFTookShadowFlare/NoDurability Fabric"
+  },
+  "license": "MIT",
+  "icon": "assets/nodurability/icon.png",
+  "environment": "*",
+
+  "mixins": [
+    {
+      "environment": "server",
+      "config": "no_durability.mixins.json"
+    },
+    {
+      "environment": "client",
+      "config": "no_durability.mixins.json"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "minecraft": "1.20.4"
+  }
+}
