@@ -1,2 +1,5 @@
 /give @s minecraft:diamond_shovel
 /give @s minecraft:golden_shovel
+/give @s minecraft:enchanting_table
+/give @s minecraft:lapis_lazuli 64
+/xp add @s 5 levels
